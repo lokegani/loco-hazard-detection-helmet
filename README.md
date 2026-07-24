@@ -81,7 +81,7 @@ Construction sites · Mining · Manufacturing & heavy industries · Oil & gas ·
 
 See [`docs/LOCO_HAZARD_DETECTION_Project_Report.pdf`](docs/LOCO_HAZARD_DETECTION_Project_Report.pdf) for the full literature survey and citations.
 
-![alt text](media/images/Screenshot_24-7-2026_232235.jpeg)
+![alt text](media/images/Screenshot_24-7-2026_232235_.jpeg)
 
 ![alt text](media/videos/project_video+2-1_new_1.mp4)
 
