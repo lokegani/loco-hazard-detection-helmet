@@ -78,9 +78,6 @@ Construction sites · Mining · Manufacturing & heavy industries · Oil & gas ·
 
 See [`docs/LOCO_HAZARD_DETECTION_Project_Report.pdf`](docs/LOCO_HAZARD_DETECTION_Project_Report.pdf) for the full literature survey and citations.
 
-## 📄 License
-
-Add a license of your choice (MIT is a common, permissive default for student/hardware projects).
 
 ---
 *Bachelor of Engineering — Electronics and Communication Engineering, Anna University, Even Sem 2024–25.*
