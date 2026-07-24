@@ -43,6 +43,8 @@ The LOCO-Hazard Detection Helmet goes beyond passive head protection. It continu
 
 ## 🔧 How It Works
 
+![alt text](media/images/Screenshot_24-7-2026_23213_.jpeg)
+
 1. The DHT11 sensor continuously feeds temperature/humidity data to the ESP32.
 2. If readings cross the safe thresholds, the ESP32 triggers the buzzer and updates the LCD.
 3. The NEO-6M GPS module supplies live coordinates.
@@ -78,6 +80,8 @@ Construction sites · Mining · Manufacturing & heavy industries · Oil & gas ·
 ## 📜 References
 
 See [`docs/LOCO_HAZARD_DETECTION_Project_Report.pdf`](docs/LOCO_HAZARD_DETECTION_Project_Report.pdf) for the full literature survey and citations.
+
+![alt text](media/images/Screenshot_24-7-2026_232235.jpeg)
 
 ![alt text](media/videos/project_video+2-1_new_1.mp4)
 
