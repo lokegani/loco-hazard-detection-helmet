@@ -10,6 +10,7 @@ Developed as a final-year B.E. (ECE) project at **Velammal Engineering College (
 ---
 
 ## 📌 Overview
+![alt text](media/images/IMG-20250509-WA0014.jpg)
 
 The LOCO-Hazard Detection Helmet goes beyond passive head protection. It continuously senses temperature and humidity, tracks the wearer's live GPS location, and triggers instant buzzer/LCD alerts on-site while also messaging pre-assigned emergency contacts through a Telegram bot named `LOCO_HAZARD_DETECTION`. The project also proposes a **Safety Patrol Service (SPS)** — a team of 7–10 personnel who monitor workers in real time and coordinate rapid intervention.
 
@@ -78,9 +79,8 @@ Construction sites · Mining · Manufacturing & heavy industries · Oil & gas ·
 
 See [`docs/LOCO_HAZARD_DETECTION_Project_Report.pdf`](docs/LOCO_HAZARD_DETECTION_Project_Report.pdf) for the full literature survey and citations.
 
-## 📄 License
+![alt text](media/videos/project_video+2-1_new_1.mp4)
 
-Add a license of your choice (MIT is a common, permissive default for student/hardware projects).
 
 ---
 *Bachelor of Engineering — Electronics and Communication Engineering, Anna University, Even Sem 2024–25.*
