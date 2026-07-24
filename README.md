@@ -10,7 +10,7 @@ Developed as a final-year B.E. (ECE) project at **Velammal Engineering College (
 ---
 
 ## 📌 Overview
-![alt text](media/images/IMG-20250509-WA0012.jpg)
+![alt text](media/images/IMG-20250509-WA0014.jpg)
 
 The LOCO-Hazard Detection Helmet goes beyond passive head protection. It continuously senses temperature and humidity, tracks the wearer's live GPS location, and triggers instant buzzer/LCD alerts on-site while also messaging pre-assigned emergency contacts through a Telegram bot named `LOCO_HAZARD_DETECTION`. The project also proposes a **Safety Patrol Service (SPS)** — a team of 7–10 personnel who monitor workers in real time and coordinate rapid intervention.
 
