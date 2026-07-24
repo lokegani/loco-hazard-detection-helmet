@@ -6,7 +6,7 @@ Developed as a final-year B.E. (ECE) project at **Velammal Engineering College (
 
 > Asfaq Farid S · Lokeshkumar K · Navin Karthik R
 > Guided by Mrs. S. Kavitha | Dept. of ECE
-
+![alt text](media/images/IMG-20250509-WA0009.jpg)
 ---
 
 ## 📌 Overview
