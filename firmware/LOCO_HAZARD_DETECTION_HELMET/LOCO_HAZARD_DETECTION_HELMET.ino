@@ -14,8 +14,8 @@ const char* ssid = "KLOKKY";
 const char* password = "lokesh007*";
 
 // Telegram Bot Credentials
-const char* botToken = "7590404389:AAFsrwDEpmqzC00Tlj26Dz2J7Wz9HD6OKzc";
-const char* chatID = "6457655080";
+const char* botToken = "your telegram token";
+const char* chatID = "your chatID";
 
 // GPS Setup
 static const int RXPin = 16, TXPin = 17; // Change as per your ESP32 board
